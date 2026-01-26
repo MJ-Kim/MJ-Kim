@@ -5,7 +5,6 @@
 </p>
 
 <br>
-<br>
 
 ## 🛠️ MJ's Skills
 
