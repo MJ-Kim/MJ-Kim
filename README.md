@@ -27,9 +27,10 @@
 
 | Project name | Languages | Made via | Period |
 |---|---|---|---|
-| [Bootcamp: MovieDashboard](https://github.com/MJ-Kim/MiniProject-MovieDashboard) | Python | PyCharm | Oct 2025 |
-| [Bootcamp: Service Dev Project](https://github.com/MJ-Kim/LGU-WhyNotSwCamp-Projcet) | Python / Django / MySQL | VS Code / PyCharm | Nov 2025 – Jan 2026 |
 | Crawling Project | Python | VS Code | Jan 2026 – Present |
+| [Bootcamp: Service Dev Project](https://github.com/MJ-Kim/LGU-WhyNotSwCamp-Projcet) | Python / Django / MySQL | VS Code / PyCharm | Nov 2025 – Jan 2026 |
+| [Bootcamp: MovieDashboard](https://github.com/MJ-Kim/MiniProject-MovieDashboard) | Python | PyCharm | Oct 2025 |
+| 강서구 빅데이터 분석 아이디어 공모전 | Python | Google Colab | Aug 2025 – Sep 2026 |
 
 <br>
 <br>
@@ -41,4 +42,5 @@
 | [물체의 의미성과 역행단서가 시각적 작업기억에 미치는 영향](https://github.com/MJ-Kim/Thesis-MeaningfulnessEffectAndRetroCue) | R | RStudio / MATLAB | May 2024 – Feb 2025 |
 | [작업기억에서의 의미성 효과](https://github.com/MJ-Kim/Research-MeaningfulnessEffectOnWorkingMemory) | R | RStudio / MATLAB | Mar 2023 – May 2024 |
 | [지각된 위험성에 따른 사람-동물 쌍 자극 방향 효과](https://github.com/MJ-Kim/RA.Research-DyadEffect) | R / Python | RStudio / PsychoPy | Mar 2022 – Feb 2023 |
+| 여대생의 혼밥과 성격 그리고 심리적 요인간의 관계： 예비 연구 | - | Excel / SPSS / Canpro | Oct 2018 – Aug 2019 |
 
