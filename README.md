@@ -27,7 +27,7 @@
 
 | Project name | Languages | Made via | Period |
 |---|---|---|---|
-| Crawling Project | Python | VS Code | Jan 2026 – Present |
+| Cafe Site Project | Python | VS Code | Jan 2026 – Present |
 | [Bootcamp: Service Dev Project](https://github.com/MJ-Kim/LGU-WhyNotSwCamp-Projcet) | Python / Django / MySQL | VS Code / PyCharm | Nov 2025 – Jan 2026 |
 | [Bootcamp: MovieDashboard](https://github.com/MJ-Kim/MiniProject-MovieDashboard) | Python | PyCharm | Oct 2025 |
 | 강서구 빅데이터 분석 아이디어 공모전 | Python | Google Colab | Aug 2025 – Sep 2026 |
