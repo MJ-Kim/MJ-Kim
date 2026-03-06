@@ -10,6 +10,7 @@
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -27,7 +28,7 @@
 
 | Project name | Languages | Made via | Period |
 |---|---|---|---|
-| Cafe Site Project | Python | VS Code | Jan 2026 – Present |
+| Cafe Site Project | Python | VS Code | Jan 2026 – Mar 2026 |
 | [Bootcamp: Service Dev Project](https://github.com/MJ-Kim/LGU-WhyNotSwCamp-Projcet) | Python / Django / MySQL | VS Code / PyCharm | Nov 2025 – Jan 2026 |
 | [Bootcamp: MovieDashboard](https://github.com/MJ-Kim/MiniProject-MovieDashboard) | Python | PyCharm | Oct 2025 |
 | 강서구 빅데이터 분석 아이디어 공모전 | Python | Google Colab | Aug 2025 – Sep 2026 |
