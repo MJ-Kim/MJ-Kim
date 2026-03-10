@@ -24,21 +24,21 @@
 <br>
 <br>
 
-## 📌 MJ's Projects
+## 📌 MJ's Team Projects
 
-| Project name | Languages | Made via | Period |
+| Project | Languages | Made via | Period |
 |---|---|---|---|
-| Cafe Site Project | Python | VS Code | Jan 2026 – Mar 2026 |
+| [Banapresso Location Recommendation](https://github.com/Universe-Brewmap/Brewmap) | Python | VS Code | Jan 2026 – Mar 2026 |
 | [Bootcamp: Service Dev Project](https://github.com/MJ-Kim/LGU-WhyNotSwCamp-Projcet) | Python / Django / MySQL | VS Code / PyCharm | Nov 2025 – Jan 2026 |
 | [Bootcamp: MovieDashboard](https://github.com/MJ-Kim/MiniProject-MovieDashboard) | Python | PyCharm | Oct 2025 |
-| 강서구 빅데이터 분석 아이디어 공모전 | Python | Google Colab | Aug 2025 – Sep 2026 |
+| 강서구 빅데이터 분석 아이디어 공모전 | Python | Google Colab | Aug 2025 – Sep 2025 |
 
 <br>
 <br>
 
 ## 🧪 MJ's Research
 
-| Research name | Languages | Made via | Period |
+| Research | Languages | Made via | Period |
 |---|---|---|---|
 | [물체의 의미성과 역행단서가 시각적 작업기억에 미치는 영향](https://github.com/MJ-Kim/Thesis-MeaningfulnessEffectAndRetroCue) | R | RStudio / MATLAB | May 2024 – Feb 2025 |
 | [작업기억에서의 의미성 효과](https://github.com/MJ-Kim/Research-MeaningfulnessEffectOnWorkingMemory) | R | RStudio / MATLAB | Mar 2023 – May 2024 |
